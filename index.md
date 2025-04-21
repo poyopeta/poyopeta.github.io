@@ -16,11 +16,15 @@ Current research focuses on the detection and mitigation of radio frequency inte
   - Master of Science (Department of Electrical Engineering and Information Systems, expected 2026)
 
 ## Experience
--
+- Technical trainee at Advanced Industrial Science and Technology (AIST) (2024 - )
 
 ## Languages & Skills
 - **Japanese**: Native
 - **English**: So so
   - **TOEFL iBT**: 100
+- **Programming**: Python, C/C++, MATLAB
+- **Tools**: Bash, Git, LaTeX
 
 ## External Links
+- [Orchid](https://orcid.org/0009-0000-8358-8417)
+- [Hirose & Natsuaki Lab](https://eis.t.u-tokyo.ac.jp)
