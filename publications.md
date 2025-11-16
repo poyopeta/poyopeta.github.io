@@ -18,7 +18,7 @@ permalink: /publications/
 ### Domestic
 
 1. 橋本悠, 廣瀬明, 夏秋嶺, 「[偏波合成開口レーダにおける偏波度を指標とした不要波の検出](https://ken.ieice.org/ken/paper/20240605LcDk/)」, *電子情報通信学会 宇宙・航行エレクトロニクス研究会*, 信学技報, vol. 124, no. 56, SANE2024-9, pp. 43-48, 神奈川, 2024年6月. (査読なし、口頭)
-1. TBD
+1. 橋本悠, 杉本隆, 廣瀬明, 夏秋嶺, 「[合成開口レーダにおける偏波に基づく不要波の検出と特徴解析 ～ ALOS/PALSARによる日本域観測データを用いた解析例 ～](https://ken.ieice.org/ken/paper/20251216xcpv/)」, *電子情報通信学会 電磁界理論研究会*. (To appear)
 
 ## Awards
 
