@@ -7,13 +7,15 @@ title: Resume
 
 Graduate student at the University of Tokyo, majoring in Electrical Engineering and Information Systems.
 I am interested in signal processing, telecommunications, and radar systems.
-Current research focuses on the detection and mitigation of radio frequency interference (RFI) in remote sensing, particularly in the context of synthetic aperture radar (SAR) systems.
+Current research focuses on the detection and mitigation of radio frequency interference (RFI) in microwave remote sensing, particularly in the context of spaceborne synthetic aperture radar (SAR) systems.
 
 ## Education
-- **The University of Tokyo** (2020 - 2024)
+- **The University of Tokyo** (Apr. 2020 - Mar. 2024)
   - Bachelor of Science (Department of Electrical and Electronic Engineering, Faculty of Engineering, 2024)
-- **The University of Tokyo** (2024 - )
-  - Master of Science (Department of Electrical Engineering and Information Systems, Graduate School of Engineering, expected 2026)
+- **The University of Tokyo** (Apr. 2024 - Mar. 2026)
+  - Master of Science (Department of Electrical Engineering and Information Systems, Graduate School of Engineering)
+- **The University of Tokyo** (Apr. 2026 - )
+  - Ph. D. in Engineering (Department of Electrical Engineering and Information Systems, Graduate School of Engineering, expected)
 
 ## Experience
 - Technical trainee at Advanced Industrial Science and Technology (AIST) (2024 - )
@@ -22,7 +24,7 @@ Current research focuses on the detection and mitigation of radio frequency inte
 - **Japanese**: Native
 - **English**: so so
   - **TOEFL iBT**: 100
-- **Programming**: Python, C/C++, MATLAB
+- **Coding**: Python, C/C++, MATLAB
 - **Tools**: Bash, Git, LaTeX
 
 ## External Links
