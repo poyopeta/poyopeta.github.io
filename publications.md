@@ -13,7 +13,7 @@ permalink: /publications/
 ### International
 
 1. Yu Hashimoto, Ryo Natsuaki, and Akira Hirose, "[RFI Detection Using Degree of Polarization for Polarimetric Synthetic Aperture Radar](https://doi.org/10.1109/IGARSS53475.2024.10640790)," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, pp. 11482-11485, Athens, Greece, July 2024. (Peer-reviewed, oral)
-1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Polarimetric RFI Mapping of PALSAR Observation in Hokkaido]()," in *APSAR 2025 - The 9th Asia-Pacific Conference on Synthetic Aperture Radar*, Shimame, Japan, October 2025. (Peer-reviewed, oral)
+1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Polarimetric RFI Mapping of PALSAR Observation in Hokkaido](https://doi.org/10.23919/APSAR64635.2025.11392544)," in *APSAR 2025 - The 9th Asia-Pacific Conference on Synthetic Aperture Radar*, Shimame, Japan, October 2025. (Peer-reviewed, oral)
 
 ### Domestic
 
