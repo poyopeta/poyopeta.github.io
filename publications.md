@@ -12,14 +12,17 @@ permalink: /publications/
 
 ### International
 
-1. Yu Hashimoto, Ryo Natsuaki, and Akira Hirose, "[RFI Detection Using Degree of Polarization for Polarimetric Synthetic Aperture Radar](https://doi.org/10.1109/IGARSS53475.2024.10640790)," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, pp. 11482-11485, Athens, Greece, July 2024. (Peer-reviewed, oral)
+1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Mapping Polarimetric Characteristics of Radio Frequency Interference in L-Band Synthetic Aperture Radar Data]()," in *URSI GASS 2026 - 2026 URSI General Assembly and Scientific Symposium*, Krakow, Poland, August 2026. (Accepted)
+1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[RFI DETECTION AND CHARACTERIZATION USING POLARIZATION STATES FOR GLOBAL ALOS/PALSAR DATA]()," in *IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium*, Washington, D.C., the United States of America, August 2026. (Accepted)
 1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Polarimetric RFI Mapping of PALSAR Observation in Hokkaido](https://doi.org/10.23919/APSAR64635.2025.11392544)," in *APSAR 2025 - The 9th Asia-Pacific Conference on Synthetic Aperture Radar*, Shimame, Japan, October 2025. (Peer-reviewed, oral)
+1. Yu Hashimoto, Ryo Natsuaki, and Akira Hirose, "[RFI Detection Using Degree of Polarization for Polarimetric Synthetic Aperture Radar](https://doi.org/10.1109/IGARSS53475.2024.10640790)," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, pp. 11482-11485, Athens, Greece, July 2024. (Peer-reviewed, oral)
 
 ### Domestic
 
-1. 橋本悠, 廣瀬明, 夏秋嶺, 「[偏波合成開口レーダにおける偏波度を指標とした不要波の検出](https://ken.ieice.org/ken/paper/20240605LcDk/)」, *電子情報通信学会 宇宙・航行エレクトロニクス研究会*, 信学技報, vol. 124, no. 56, SANE2024-9, pp. 43-48, 神奈川, 2024年6月. (査読なし, 口頭)
 1. 橋本悠, 杉本隆, 廣瀬明, 夏秋嶺, 「[合成開口レーダにおける偏波に基づく不要波の検出と特徴解析 ～ ALOS/PALSARによる日本域観測データを用いた解析例 ～](https://ken.ieice.org/ken/paper/20251216xcpv/)」, *電子情報通信学会 電磁界理論研究会*, 信学技報, vol. 125, no. 294, EMT2025-64, pp. 49-54, 東京, 2025年12月. (査読なし, 口頭)
+1. 橋本悠, 廣瀬明, 夏秋嶺, 「[偏波合成開口レーダにおける偏波度を指標とした不要波の検出](https://ken.ieice.org/ken/paper/20240605LcDk/)」, *電子情報通信学会 宇宙・航行エレクトロニクス研究会*, 信学技報, vol. 124, no. 56, SANE2024-9, pp. 43-48, 神奈川, 2024年6月. (査読なし, 口頭)
 
 ## Awards
 
 - IEEE Geoscience and Remote Sensing Society (GRSS) [Student Prize Paper Award](https://www.grss-ieee.org/about/history/grss-past-awards/), Second prize, IGARSS 2024.
+- 東京大学大学院工学系研究科電気系工学専攻, 2026年度優秀修士論文賞.
