@@ -26,3 +26,6 @@ permalink: /publications/
 
 - IEEE Geoscience and Remote Sensing Society (GRSS) [Student Prize Paper Award](https://www.grss-ieee.org/about/history/grss-past-awards/), Second prize, IGARSS 2024.
 - 東京大学大学院工学系研究科電気系工学専攻, 2025年度優秀修士論文賞.
+- IEEE GRSS Frequency Allocations in Remote Sensing (FARS) Technical Committee [RFI Database Contest](https://www.grss-ieee.org/technical-committees/frequency-allocations-in-remote-sensing/), First prize, IGARSS 2026.
+- IEEE GRSS Three Minute Thesis (3MT™) competition, Finalist, IGARSS 2026.
+- URSI GASS Student Paper Competition, Finalist, URSI GASS 2026.
