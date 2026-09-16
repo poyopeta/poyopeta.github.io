@@ -6,14 +6,15 @@ permalink: /publications/
 
 ## Journal Papers
 
+1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Mapping Polarimetric Characteristics of Radio Frequency Interference in L-Band Synthetic Aperture Radar Data]()," *URSI Radio Science Letters*, to appear. (Peer-reviewed)
 1. Yu Hashimoto, Akira Hirose, and Ryo Natsuaki, "[Degree-of-Polarization-Based Radio Frequency Interference Detection for Synthetic Aperture Radar](https://doi.org/10.1109/TGRS.2025.3570493)," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1-15, 2025. (Peer-reviewed)
 
 ## Conference Papers
 
 ### International
 
-1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Mapping Polarimetric Characteristics of Radio Frequency Interference in L-Band Synthetic Aperture Radar Data]()," in *URSI GASS 2026 - 2026 URSI General Assembly and Scientific Symposium*, Krakow, Poland, August 2026. (Accepted)
-1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[RFI DETECTION AND CHARACTERIZATION USING POLARIZATION STATES FOR GLOBAL ALOS/PALSAR DATA]()," in *IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium*, Washington, D.C., the United States of America, August 2026. (Accepted)
+1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Mapping Polarimetric Characteristics of Radio Frequency Interference in L-Band Synthetic Aperture Radar Data]()," in *URSI GASS 2026 - 2026 URSI General Assembly and Scientific Symposium*, Krakow, Poland, August 2026. (Peer-reviewed, oral)
+1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[RFI DETECTION AND CHARACTERIZATION USING POLARIZATION STATES FOR GLOBAL ALOS/PALSAR DATA]()," in *IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium*, Washington, D.C., the United States of America, August 2026. (Peer-reviewed, oral)
 1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Polarimetric RFI Mapping of PALSAR Observation in Hokkaido](https://doi.org/10.23919/APSAR64635.2025.11392544)," in *APSAR 2025 - The 9th Asia-Pacific Conference on Synthetic Aperture Radar*, pp. 1-4, Shimane, Japan, October 2025. (Peer-reviewed, oral)
 1. Yu Hashimoto, Ryo Natsuaki, and Akira Hirose, "[RFI Detection Using Degree of Polarization for Polarimetric Synthetic Aperture Radar](https://doi.org/10.1109/IGARSS53475.2024.10640790)," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, pp. 11482-11485, Athens, Greece, July 2024. (Peer-reviewed, oral)
 
