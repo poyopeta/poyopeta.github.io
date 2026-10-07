@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Journal Papers
 
-1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Mapping Polarimetric Characteristics of Radio Frequency Interference in L-Band Synthetic Aperture Radar Data]()," *URSI Radio Science Letters*, to appear. (Peer-reviewed)
+1. Yu Hashimoto, Ryu Sugimoto, Akira Hirose, and Ryo Natsuaki, "[Mapping Polarimetric Characteristics of Radio Frequency Interference in L-Band Synthetic Aperture Radar Data](https://doi.org/10.46620/26-0052)," *URSI Radio Science Letters*, vol. 8, pp. 1--5, 2026. (Peer-reviewed)
 1. Yu Hashimoto, Akira Hirose, and Ryo Natsuaki, "[Degree-of-Polarization-Based Radio Frequency Interference Detection for Synthetic Aperture Radar](https://doi.org/10.1109/TGRS.2025.3570493)," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1-15, 2025. (Peer-reviewed)
 
 ## Conference Papers
